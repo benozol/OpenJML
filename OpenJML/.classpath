@@ -12,7 +12,7 @@
 	<classpathentry exported="true" kind="lib" path="/JMLAnnotations/bin"/>
 	<classpathentry kind="lib" path="otherlibs/jpaul-2.5.1.jar"/>
 	<classpathentry kind="lib" path="otherlibs/javax.mail.jar"/>
-	<classpathentry exported="true" kind="lib" path="otherlibs/gson-2.8.1.jar"/>
+	<classpathentry kind="lib" path="otherlibs/gson-2.8.1.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry exported="true" kind="lib" path="otherlibs/gson-2.8.5.jar"/>
 	<classpathentry exported="true" kind="lib" path="otherlibs/jackson-annotations-2.9.9-javadoc.jar"/>
@@ -21,5 +21,8 @@
 	<classpathentry exported="true" kind="lib" path="otherlibs/jackson-core-2.9.9.jar"/>
 	<classpathentry exported="true" kind="lib" path="otherlibs/jackson-databind-2.9.9-javadoc.jar"/>
 	<classpathentry exported="true" kind="lib" path="otherlibs/jackson-databind-2.9.9.jar"/>
+	<classpathentry kind="lib" path="otherlibs/reflections-0.9.12-SNAPSHOT.jar"/>
+	<classpathentry exported="true" kind="lib" path="otherlibs/reflections-0.9.12-SNAPSHOT-jar-with-dependencies.jar"/>
+	<classpathentry exported="true" kind="lib" path="otherlibs/jackson-jsog-1.1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
